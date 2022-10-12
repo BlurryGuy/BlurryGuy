@@ -7,13 +7,13 @@
 
 - ?? I’m currently learning **Python, NodeJS, GO**
 
-- ????? All of my projects are available at [https://github.com/BlurryGuy](https://github.com/BlurryGuy)
+- ?? All of my projects are available at [https://github.com/BlurryGuy](https://github.com/BlurryGuy)
 
 - ?? Ask me about **How to do stuff in coding**
 
 - ?? How to reach me **! Blurry#6286**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Discord Server:</h3>
 <p align="left">
 <a href="https://discord.gg/NRaf3Kd3Y4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NRaf3Kd3Y4" height="30" width="40" /></a>
 </p>
